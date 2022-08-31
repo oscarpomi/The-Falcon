@@ -5,7 +5,7 @@ rem Use in case some content needs to be replaced (reverted from Version Control
 setlocal enabledelayedexpansion
 
 :: Source Directory where Version Control Repository is located
-set SOURCE_DIR="%PATH_DSS_Repo%\The-Falcon"
+set SOURCE_DIR="C:\Roboberto\The-Falcon"
 :: Destination Directory where Expert Advisor is located
 set DEST_DIR="%PATH_T2_E%\The-Falcon"
 

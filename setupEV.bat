@@ -5,7 +5,7 @@
 ::# Check in: Computer Properties -> Advanced System Settings -> Environmental Variables -> User Variables
 
 ::# Customize path to the user folder where all relevantrepositories should be located
-setx PATH_DSS_Repo "%USERPROFILE%\Documents\000_TradingRepo"
+setx PATH_DSS_Repo "C:\Roboberto\"
 
 ::# Customize path to the user folders with Trading Platforms
 setx PATH_T1 "C:\Program Files (x86)\FxPro - Terminal1\MQL4\Files"
